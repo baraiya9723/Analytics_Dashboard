@@ -1,0 +1,27 @@
+ /* src/components/layout/CategorySection.module.css */
+ .categorySection {
+    margin-bottom: 30px;
+    padding: 15px;
+   /* background-color: #f9f9f9; */
+    border-radius: 8px;
+ }
+.categoryTitle {
+ margin-bottom: 25px;
+  color: #333;
+ }
+.chartContainer {
+  margin-top: 30px !important;
+   display: flex;
+ flex-wrap: wrap;
+/* gap: 20px; */
+}
+.chart {
+  /* flex: 1 1 300px; */
+   min-width: 300px;
+   padding-bottom: 20px;
+}
+.filters {
+   margin-bottom: 15px;
+    display: flex;
+  gap: 10px;
+}

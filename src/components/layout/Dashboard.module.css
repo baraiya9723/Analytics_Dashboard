@@ -1,0 +1,8 @@
+.dashboardContainer {
+  margin-left: 250px;  /* Space for sidebar */
+  margin-top: 50px;   /* Space for header */
+  min-height: 100vh;
+  width: calc(100% - 250px);
+  /* background-color: #f5f5f5; */
+  padding: 20px;  /* Adds some padding for content */
+} 

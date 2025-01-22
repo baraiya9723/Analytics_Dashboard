@@ -1,0 +1,31 @@
+.sidebar {
+  background-color: #f8f9fa;
+  padding: 1rem;
+  border-right: 1px solid #ddd;
+  min-height: 100vh;
+  height: 100%;
+  position: fixed;
+  width: 220px;
+  overflow-y: auto;
+  top: 60px;
+  padding-top: 30px;
+  gap: 7px;
+}
+.sidebar a {
+  color: #333;
+  text-decoration: none;
+  display: block;
+  padding: 0.5rem;
+}
+.sidebar a:hover {
+  background-color: #e2e6ea;
+}
+.sidebar .active {
+  background-color: #007bff;
+  color: white;
+}
+.sidebar .active:hover {
+  background-color: #007bff;
+  color: white;
+}
+/*  */

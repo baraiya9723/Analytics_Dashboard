@@ -1,0 +1,6 @@
+.button {
+    border-radius: 4px;
+     font-weight: bold;
+     text-transform: capitalize;
+     padding: 8px 16px;
+  }
